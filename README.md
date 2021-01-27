@@ -12,7 +12,7 @@ Requisitos:
   - Nome
   - Clima
   - Terreno
-- Para cada planeta também devemos ter a quantidade de aparições em filmes, que podem ser obtidas pela API pública do Star Wars: https://swapi.co/.
+- Para cada planeta também devemos ter a quantidade de aparições em filmes, que podem ser obtidas pela API pública do Star Wars: [https://swapi.dev/](https://swapi.dev/).
 
 Funcionalidades desejadas:
 -	Adicionar um planeta (com nome, clima e terreno)
